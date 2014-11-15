@@ -1,7 +1,7 @@
 <?php
 	header("Content-Type: text/html; charset=utf-8");
-	
-	
+	//força que o cabeçalho seja utf-8 e text/html
+		
 	//session_start();
 
 
