@@ -28,3 +28,7 @@
 .title{
 	text-align: center;
 }
+
+.isErro{
+	border: 1px solid red;
+}
